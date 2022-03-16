@@ -44,3 +44,95 @@ Placar: Você ??? X ??? Computador
 Dado que é possível jogar partidas individuais ou campeonatos, seu programa deve começar solicitando ao usuário que escolha se prefere jogar apenas uma partida (opção 1) ou um campeonato (opção 2).
 
 Atenção: o corretor automático vai verificar se você está utilizando exatamente as mensagens pedidas, como "Você começa!", "O computador ganhou!" etc. Deixe para usar a sua criatividade em outros lugares!
+
+
+##
+
+Bem-vindo ao jogo do NIM! Escolha:
+
+1 - para jogar uma partida isolada
+2 - para jogar um campeonato 2
+
+Voce escolheu um campeonato!
+
+
+**** Rodada 1 ****
+
+Quantas peças? 19
+Limite de peças por jogada? 3
+
+Computador começa!
+
+O computador tirou 3 peças
+Agora restam, 16 peças no tabuleiro.
+
+Quantas peças você vai tirar? 3
+
+Você tirou 3 peças
+Agora restam, 13 peças no tabuleiro.
+
+
+O computador tirou uma peça
+Agora restam, 12 peças no tabuleiro.
+
+Quantas peças você vai tirar? 1
+
+Você tirou uma peça
+Agora restam, 11 peças no tabuleiro.
+
+
+O computador tirou 3 peças
+Agora restam, 8 peças no tabuleiro.
+
+Quantas peças você vai tirar? 2
+
+Você tirou 2 peças
+Agora restam, 6 peças no tabuleiro.
+
+
+O computador tirou 2 peças
+Agora restam, 4 peças no tabuleiro.
+
+Quantas peças você vai tirar? 3
+
+Você tirou 3 peças
+Agora resta apenas uma peça no tabuleiro.
+
+
+O computador tirou uma peça
+Fim do jogo! O computador ganhou!
+
+**** Rodada 2 ****
+
+Quantas peças? 1
+Limite de peças por jogada? 1
+
+Computador começa!
+
+O computador tirou uma peça
+Fim do jogo! O computador ganhou!
+
+**** Rodada 3 ****
+
+Quantas peças? 3
+Limite de peças por jogada? 1
+
+Computador começa!
+
+O computador tirou uma peça
+Agora restam, 2 peças no tabuleiro.
+
+Quantas peças você vai tirar? 2
+
+Oops! Jogada inválida! Tente de novo.
+
+Quantas peças você vai tirar? 1
+
+Você tirou uma peça
+Agora resta apenas uma peça no tabuleiro.
+
+
+O computador tirou uma peça
+Fim do jogo! O computador ganhou!
+
+Placar: Você 0 X 3 Computador
